@@ -52,6 +52,13 @@
     would be a matter of observing if the business will be more profitable for the surfing area than the ice 
     cream area, it is something that should be evaluated.
     - The year 2017 is left out because there are months that do not have information.
+    - The following functions were created to create the graphs of the whole months in one the year data is obtained
+    (image D-2)
+    
+![]()
+
+(image D-2)
+
     - We could determine which days are hotter in both months June image(E-1), December image(E-2)
     
 ![]()
