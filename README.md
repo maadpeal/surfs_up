@@ -9,21 +9,21 @@
     - There are 283 more records in the entire dataset in June than in December.
     - December data is slightly more spread out than June image(A-1, A-2).
     
-![]()
+![](https://github.com/maadpeal/surfs_up/blob/main/Resources/A-1.png)
 
 (image A-1)
 
-![]()
+![](https://github.com/maadpeal/surfs_up/blob/main/Resources/A-2.png)
 
 (image A-2)
 
     - 50% of the June data is at 75 degrees while the December data is at 71 degrees image(B-1, B-2).
     
-![]()
+![](https://github.com/maadpeal/surfs_up/blob/main/Resources/B-1.png)
 
 (image B-1)
 
-![]()
+![](https://github.com/maadpeal/surfs_up/blob/main/Resources/B-2.png)
 
 (image B-2)
 
@@ -31,7 +31,7 @@
     - First it is worth determining how both months are in context with respect to the other months 
     of the year image(C-1)
     
-![]()
+![](https://github.com/maadpeal/surfs_up/blob/main/Resources/C-1.png)
 
 (image C-1)
 
@@ -42,7 +42,7 @@
     - But to determine if the second part of the business that is surfing is worth it for those times, we must 
     also analyze both months in context image(D-1).
     
-![]()
+![](https://github.com/maadpeal/surfs_up/blob/main/Resources/D-1.png)
 
 (image D-1)
 
