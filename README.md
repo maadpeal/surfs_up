@@ -55,17 +55,17 @@
     - The following functions were created to create the graphs of the whole months in one the year data is obtained
     (image D-2)
     
-![]()
+![](https://github.com/maadpeal/surfs_up/blob/main/Resources/D-2.png)
 
 (image D-2)
 
     - We could determine which days are hotter in both months June image(E-1), December image(E-2)
     
-![]()
+![](https://github.com/maadpeal/surfs_up/blob/main/Resources/E-1.png)
 
 (image E-1)
 
-![]()
+![](https://github.com/maadpeal/surfs_up/blob/main/Resources/E-2.png)
 
 (image E-2)
 
@@ -74,11 +74,11 @@
     to the data collected are greater from December 5 to 10 .
     - If we turn the analysis around and look for the coldest days in June image(F-1) and in December image(F-2).
     
-![]()
+![](https://github.com/maadpeal/surfs_up/blob/main/Resources/F-1.png)
 
 (image F-1)
 
-![]()
+![](https://github.com/maadpeal/surfs_up/blob/main/Resources/F-2.png)
 
 (image F-2)
 
